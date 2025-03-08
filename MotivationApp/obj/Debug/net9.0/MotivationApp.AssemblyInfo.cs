@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotivationApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcba8870c1f6fab1562b518d9fad0c7787a30c20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f41e16ee2a94da3d40bb3705e076c55ab2a2c64f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotivationApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotivationApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
