@@ -1,0 +1,15 @@
+D:\Github\ConsoleMotivator\MotivationApp\bin\Debug\net9.0\MotivationApp.exe
+D:\Github\ConsoleMotivator\MotivationApp\bin\Debug\net9.0\MotivationApp.deps.json
+D:\Github\ConsoleMotivator\MotivationApp\bin\Debug\net9.0\MotivationApp.runtimeconfig.json
+D:\Github\ConsoleMotivator\MotivationApp\bin\Debug\net9.0\MotivationApp.dll
+D:\Github\ConsoleMotivator\MotivationApp\bin\Debug\net9.0\MotivationApp.pdb
+D:\Github\ConsoleMotivator\MotivationApp\obj\Debug\net9.0\MotivationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\ConsoleMotivator\MotivationApp\obj\Debug\net9.0\MotivationApp.AssemblyInfoInputs.cache
+D:\Github\ConsoleMotivator\MotivationApp\obj\Debug\net9.0\MotivationApp.AssemblyInfo.cs
+D:\Github\ConsoleMotivator\MotivationApp\obj\Debug\net9.0\MotivationApp.csproj.CoreCompileInputs.cache
+D:\Github\ConsoleMotivator\MotivationApp\obj\Debug\net9.0\MotivationApp.sourcelink.json
+D:\Github\ConsoleMotivator\MotivationApp\obj\Debug\net9.0\MotivationApp.dll
+D:\Github\ConsoleMotivator\MotivationApp\obj\Debug\net9.0\refint\MotivationApp.dll
+D:\Github\ConsoleMotivator\MotivationApp\obj\Debug\net9.0\MotivationApp.pdb
+D:\Github\ConsoleMotivator\MotivationApp\obj\Debug\net9.0\MotivationApp.genruntimeconfig.cache
+D:\Github\ConsoleMotivator\MotivationApp\obj\Debug\net9.0\ref\MotivationApp.dll
